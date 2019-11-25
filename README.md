@@ -1,11 +1,7 @@
 ## AWARDS
-### This is a project that  assesses ones projects , awardcenter. Users can sign up login, view and post projects and review and rate.
-
- 
-### July 22, 2019
-#### By **[tumaa](https://github.com/tumaa)**
+#### By ** tumaa **
 ## Description
-[AWARD-LINE](())This is a project that  assesses ones projects , awardline. Users can sign up login, view and post projects and review and rate.
+This is a project that  assesses ones projects , awardline. Users can sign up login, view and post projects and review and rate.
 
 
 ## USER STORIES
