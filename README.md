@@ -1,9 +1,9 @@
-# [award_line][(https://awardline.herokuapp.com/)]
-### This is a project that  assesses ones projects , awardline. Users can sign up login, view and post projects and review and rate.
+# [award_line][(https://awardcenter.herokuapp.com/)]
+### This is a project that  assesses ones projects , awardcenter. Users can sign up login, view and post projects and review and rate.
 
  
 ### July 22, 2019
-#### By **[ANTONY MWANIKI](https://github.com/amwaniki180)**
+#### By **[tumaa](https://github.com/tumaa)**
 ## Description
 [AWARD-LINE](())This is a project that  assesses ones projects , awardline. Users can sign up login, view and post projects and review and rate.
 
@@ -22,7 +22,7 @@
 4. [python virtualenv](https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b)
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone https://github.com/amwaniki180/awardline`
+`git clone https://github.com/tumaa/awards`
 ### Activate virtual environment
 Activate virtual environment using python3.6 as default handler
 ```bash
@@ -64,6 +64,6 @@ Copy functionality does not work
     - Bootstrap 3
     - JavaScript
 ## Support and contact details
-Contact me on developer on amwaniki180@gmail.com for any comments, reviews or advice.
+Contact me on developer on ramanfatuu@gmail.com for any comments, reviews or advice.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
