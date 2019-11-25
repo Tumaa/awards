@@ -1,3 +1,13 @@
+<style>
+.home1{
+    background-image: url('https://images.pexels.com/photos/71116/hurricane-earth-satellite-tracking-71116.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-position: center;
+    background-attachment: center;
+    background-size: cover;
+    
+}
+</style>
+
 {% load bootstrap4%} {% load static %}
 <!DOCTYPE html>
 <html lang="en">
@@ -6,9 +16,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge"> {% if title %}
-    <title>{{title}} AWARD_LINE</title>
+    <title>{{title}} AWARDS</title>
     {% else %}
-    <title>AWARD_LINE</title>
+    <title>AWARDS</title>
     {% endif %} {% block styles %} {% bootstrap_css %}
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
@@ -22,11 +32,13 @@
     <link rel="stylesheet" href="{% static 'css/styles.css' %}"> {% endblock %}
 </head>
 
-
-<body>
     {% include 'navbar.html' %}
-
-    <hr> {% block content %} {% endblock %} {% block scripts %}
+<body>
+    {% block content %}
+<div class='home1'>
+</div>
+    {% endblock %} 
+    {% block scripts %}
     <!-- JQuery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <!-- Bootstrap tooltips -->
