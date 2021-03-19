@@ -12,7 +12,7 @@ django-forms-bootstrap==3.1.0
 django-registration==2.4.1
 django-rest-framework==0.1.0
 django-tinymce==2.8.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 idna==2.8
 msgpack==0.6.2
 packaging==19.2
